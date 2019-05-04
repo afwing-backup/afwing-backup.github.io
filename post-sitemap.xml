@@ -8,62 +8,71 @@
     </url>
 
     <url>
-        <loc>https://afwing-backup.github.io/old-combat-priller/</loc>
-        <lastmod>2013-06-01T00:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1</priority>
-    
-    
-    </url>
-
-    <url>
-        <loc>https://afwing-backup.github.io/old-gallery-j10/</loc>
-        <lastmod>2013-06-01T00:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1</priority>
-    
-    
-    </url>
-
-    <url>
-        <loc>https://afwing-backup.github.io/old-gallery-me109/</loc>
-        <lastmod>2013-06-01T00:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1</priority>
-    
-    
-    </url>
-
-    <url>
-        <loc>https://afwing-backup.github.io/old-gallery-p47-theme/</loc>
-        <lastmod>2013-06-01T00:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1</priority>
-    
-    
-    </url>
-
-    <url>
-        <loc>https://afwing-backup.github.io/old-gallery-topgunchen/</loc>
-        <lastmod>2013-06-01T00:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1</priority>
-    
-    
-    </url>
-
-    <url>
-        <loc>https://afwing-backup.github.io/old-gallery-me109-2/</loc>
-        <lastmod>2013-06-01T00:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1</priority>
-    
-    
-    </url>
-
-    <url>
-        <loc>https://afwing-backup.github.io/aircraft-plaaf-insignia/</loc>
+        <loc>https://afwing-backup.github.io/aircraft/plaaf-insignia/</loc>
         <lastmod>2013-04-28T00:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+    
+    </url>
+
+    <url>
+        <loc>https://afwing-backup.github.io/aircraft/stealth-aircraft/</loc>
+        <lastmod>2013-04-10T00:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+    
+    </url>
+
+    <url>
+        <loc>https://afwing-backup.github.io/old/combat/priller/</loc>
+        <lastmod>2013-01-01T00:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+    
+    </url>
+
+    <url>
+        <loc>https://afwing-backup.github.io/old/gallery/j10/</loc>
+        <lastmod>2013-01-01T00:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+    
+    </url>
+
+    <url>
+        <loc>https://afwing-backup.github.io/old/gallery/me109/</loc>
+        <lastmod>2013-01-01T00:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+    
+    </url>
+
+    <url>
+        <loc>https://afwing-backup.github.io/old/gallery/p47-theme/</loc>
+        <lastmod>2013-01-01T00:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+    
+    </url>
+
+    <url>
+        <loc>https://afwing-backup.github.io/old/gallery/topgunchen/</loc>
+        <lastmod>2013-01-01T00:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+    
+    </url>
+
+    <url>
+        <loc>https://afwing-backup.github.io/old/gallery/me109-2/</loc>
+        <lastmod>2013-01-01T00:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
     
